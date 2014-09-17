@@ -38,3 +38,6 @@
 # Log
 /web/access.log
 /web/error.log
+
+*~
+.DS_Store
